@@ -1,0 +1,35 @@
+
+header{
+    font-family:Georgia, 'Times New Roman', Times, serif
+    color: black;
+  background-color:#b3a47b;
+  display: flex;
+  justify-content: space-evenly;
+  P { text-align: center }
+}
+
+footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#EDC9AF;
+    color: black;
+}
+{}
+
+.beige-background {
+background-color: beige;
+}
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+.lady {
+    border-radius: 50px;
+}
+main {
+    max-width: 1000px;
+}
